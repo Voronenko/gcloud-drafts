@@ -59,7 +59,7 @@ SCOPES = [
     "https://www.googleapis.com/auth/userinfo.email",
     "https://www.googleapis.com/auth/userinfo.profile",
     "https://www.googleapis.com/auth/admin.directory.user.readonly",
-    "https://www.googleapis.com/auth/admin.directory.user.security.readonly",
+    "https://www.googleapis.com/auth/admin.directory.user.security",
     "https://www.googleapis.com/auth/admin.directory.rolemanagement.readonly",
     "https://www.googleapis.com/auth/admin.directory.rolemanagement.readonly",
     "https://www.googleapis.com/auth/admin.directory.rolemanagement.readonly"
